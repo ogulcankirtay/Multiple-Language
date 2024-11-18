@@ -4,4 +4,5 @@
     <string name="title_hello_world">Merhaba Dünya</string>
     <string name="btn_show_toast">Tost Mesajı Göster</string>
     <string name="toast_message">Bu Bir Tost Mesajı</string>
+    <string name="go_screen_size_page">Farklı ekran Sayfalarına Git</string>
 </resources>
